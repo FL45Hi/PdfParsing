@@ -30,7 +30,7 @@ Extract the poppler zip in project folder and set the poppler path.
 for example, poppler_path=r"poppler-23.07.0\Library\bin"
  
 
-# Steps to Execute the code
+## Steps to Execute the code
 1.  Update File_name variable in main.py with the pdf name.
 1.  To activate an environment run "workon pdfparsing" in the command terminal
 2.  Run "python main.py".
