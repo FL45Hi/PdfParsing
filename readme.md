@@ -1,4 +1,4 @@
-**Assignment:: PDF Parsing using Python OCR.**
+**Assignment: PDF Parsing using Python OCR.**
 This is the user documentation for the PDF Parsing.
 
  
